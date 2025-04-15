@@ -1,1 +1,2 @@
-# Rika-s-Portfolio
+# Rika's Portfolio
+
