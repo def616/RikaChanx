@@ -6,7 +6,9 @@ Welcome to my portfolio, where I document my work in bioinformatics!
 
 Bulk RNA-seq analysis \
 Single cell analysis  \
-Trajecotry inference of single cell data
+Trajectory inference of single cell data \
+Gene Regulatory Network (GRN) inference of single cell data \
+CTCF binding sites prediction using CNNs
 
 
 
