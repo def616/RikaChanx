@@ -21,8 +21,8 @@ See `DEseq2.Rmd` and `edgeR.Rmd` for the workflow.
 - `Bulk_RNAseq_Analysis/`
   - `README.md`: Description of the analysis
   - `DEseq2.Rmd` or `edgeR.Rmd`: Scripts
-  - `environment.yml` or `requirements.txt`: Environment setup
-  - `sample_output/` *(optional)*: Simulated data or example output
+  - `result_writeup.pdf`: A short paper on the results and methods used
+  - `requirements.txt`: Environment setup
 
 
 
