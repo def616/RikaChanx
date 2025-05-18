@@ -18,11 +18,11 @@ See `DEseq2.Rmd` and `edgeR.Rmd` for the workflow.
 - Heatmap of top 50 DEGs
 
 ## Folder structure
-Bulk_RNAseq_Analysis/
-├── DEseq2.Rmd
-├── edgeR.Rmd             
-├──results_writeup.pdf        
-└── README.md
+- `Bulk_RNAseq_Analysis/`
+  - `README.md`: Description of the analysis
+  - `DEseq2.Rmd` or `edgeR.Rmd`: Scripts
+  - `environment.yml` or `requirements.txt`: Environment setup
+  - `sample_output/` *(optional)*: Simulated data or example output
 
 
 
