@@ -9,7 +9,7 @@ Single cell analysis  \
 Trajectory inference of single cell data \
 Gene Regulatory Network (GRN) inference of single cell data \
 CTCF binding sites prediction
-Single cell annotation tool - ArcCell (collaborative project, see full project [here]([url](https://github.com/VenkatSBitra/coms4761_project)).)
+Single cell annotation tool - ArcCell (collaborative project, see full project [here](https://github.com/VenkatSBitra/coms4761_project)).
 
 
 
