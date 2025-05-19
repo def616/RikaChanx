@@ -14,7 +14,6 @@
   - `deseq2.Rmd` and `edgeR.Rmd`: Scripts
   - `y_chrom_removed.R`: Analysis after the removal of Y-linked genes
   - `result_writeup.pdf`: A short paper on the results and methods used
-  - `requirements.txt`: Environment setup
 
 ## Description
 This project investigates differential gene expression in brown adipose tissue (BAT) between wild-type and Hoxa5 knockout mice using both DESeq2 and edgeR. While edgeR identified more differentially expressed genes (DEGs) than DESeq2, many of these were driven by Y-linked genes such as Ddx3y—highlighting sex-specific biases in the data. After excluding Y-linked genes, only the control Hoxa5 remained significantly differentially expressed, suggesting their strong influence on initial results.
