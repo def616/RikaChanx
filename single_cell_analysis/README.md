@@ -14,6 +14,8 @@
 ## Description
 Brown adipose tissue (BAT) plays a crucial role in thermogenesis and metabolism, yet the lineage of brown adipocyte progenitors (BAP) and brown adipocyte (BA) during embryonic development remains incompletely understood. Here, we investigate BAT development in mouse embryos from embryonic day E11.5 to E13.5 using single cell RNA sequencing (scRNA-seq). Single cell analysis of Ebf2+/Sox9+/Col2a1- cells reveal a distinct spatial arrangement of BAP and BA. Differentially expressed genes analysis reveal key adipogenic regulators such as Pparg and Cebpa. Trajectory inference of Pdgfra+ mesenchymal cells across the embryonic time points confirmed a lineage trajectory toward BAT, with Cxcl12 emerging as a potential driver via ERK signaling. Additional candidates including Fst and Id3 (BMP pathway) further support the involvement of multiple signaling pathways in BAT differentiation. We uncovered evidence of ERK and BMP signaling in BAT as well as transcriptional and spatial signatures of embryonic BAT development and propose regulatory genes for future validation. These insights lay the groundwork for mapping BAT development and understanding its implications in therapeutics for metabolic-related diseases.
 
+**As this is an ongoing and unpublished work, dataset and results are not shared.**
+
 
 
 
