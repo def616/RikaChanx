@@ -4,7 +4,7 @@ Welcome to my portfolio, where I document my work in bioinformatics and computat
 
 ## Table of Contents
 
-Bulk RNA-seq analysis \
+[Bulk RNA-seq analysis](./Bulk_RNAseq_Analysis)\
 Fish image-based classification \
 Single cell RNA-seq analysis \
 Gene Regulatory Network (GRN) inference \
