@@ -9,9 +9,9 @@
 - Filtered dataset was analyzed using CellOracle to infer cluster-specific GRNs
 - 
 ## Folder structure
-- `single_cell_analysis/`
-    - `single_ceLL_analysis.py`: a snippet of codes used to preprocess, analyze, and generate important figures 
-    - `trajectory.py`: a snippet of codes used to perform trajectory inference using experimental time via Cellrank
+- `GRN/`
+    - `grn_code_cleaned`: code used perform gene regulatory network inference
+    - `results_writeup.pdf`: a short paper on the results obtained
 
 ## Description
 Characterizing progenitors of Brown Adipose Tissue (BAT) is crucial to studying BAT development. SCENIC and CellOracle were used to inferred gene regulatory networks (GRNs), and identify possible
