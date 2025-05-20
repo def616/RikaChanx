@@ -5,9 +5,9 @@ Welcome to my portfolio, where I document my work in bioinformatics and computat
 ## Table of Contents
 
 [Bulk RNA-seq analysis](./Bulk_RNAseq_Analysis)\
-Fish image-based classification \
-Single cell RNA-seq analysis \
-Gene Regulatory Network (GRN) inference \
+[Fish image-based classification](./IBC)\
+[Single cell RNA-seq analysis](./single_cell_analysis)\
+[Gene Regulatory Network (GRN) inference](./grn)\
 Single cell annotation tool - ArcCell (collaborative project, see full project [here](https://github.com/VenkatSBitra/coms4761_project)).
 
 ## Contact
