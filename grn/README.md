@@ -17,9 +17,6 @@
 Characterizing progenitors of Brown Adipose Tissue (BAT) is crucial to studying BAT development. SCENIC and CellOracle were used to inferred gene regulatory networks (GRNs), and identify possible
 BAT progenitor cell types in single cell data of mouse tissue taken at E12.5. Cxcl14 was identified as a marker for a potential BAT progenitor cell population.
 
-**As this is an ongoing and unpublished work, dataset and results are not shared. Snippets of codes are shared.**
-
-
 
 
 
