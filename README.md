@@ -1,4 +1,4 @@
-# Rika's Portfolio
+# 🧬 Rika's Portfolio
 
 Welcome to my portfolio, where I document my work in bioinformatics and computational biology! I am currently a rising senior at Barnard College, Columbia University, studying computational biology. I'm interested in using computational and mathematical skills to answer biological questions!
 
