@@ -8,7 +8,7 @@ Welcome to my portfolio, where I document my work in bioinformatics and computat
 [Fish image-based classification](./IBC)\
 [Single cell RNA-seq analysis](./single_cell_analysis)\
 [Gene Regulatory Network (GRN) inference](./grn)\
-Single cell annotation tool - ArcCell (collaborative project, see full project [here](https://github.com/VenkatSBitra/coms4761_project)).
+Single cell annotation tool - ArcCell (collaborative project, see full project description [here](https://github.com/VenkatSBitra/coms4761_project)).
 
 ## Contact
 Emails: rc3517@barnard.edu or rikac24@gmail.com
